@@ -118,3 +118,5 @@ dist
 /dist
 *.swp
 .idea
+smart-lock-automation-key.json
+config
